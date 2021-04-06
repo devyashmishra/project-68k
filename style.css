@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+            background: linear-gradient(crimson 0%, red 100%);
+    
+}
+#charles{
+    height:200px;
+    width:250px;
+}
+#desc{
+    font:20px;
+    color: lawngreen;
+}
